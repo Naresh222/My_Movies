@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="released_date" label="Released_Date" language="en" table="x_433700_my_movies_my_movies">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>released_date</element>
+            <help/>
+            <hint/>
+            <label>Released_Date</label>
+            <language>en</language>
+            <name>x_433700_my_movies_my_movies</name>
+            <plural>Released_Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-21 10:49:21</sys_created_on>
+            <sys_id>b0fcc566dbf100104c61487039961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Released_Date</sys_name>
+            <sys_package display_value="My_movies" source="x_433700_my_movies">b6e5c9aedbb100104c614870399619c2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My_movies">b6e5c9aedbb100104c614870399619c2</sys_scope>
+            <sys_update_name>sys_documentation_x_433700_my_movies_my_movies_released_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-21 10:49:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My_movies" max_length="40" name="x_433700_my_movies_my_movies" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Direcor_name" max_length="40" name="direcor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Duration" max_length="40" name="duration" type="string"/>
+        <element label="Rating" max_length="40" name="rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Released_Date" max_length="40" name="released_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Release_year" max_length="40" name="release_year" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title name" max_length="40" name="title_name" type="string"/>
+    </element>
+</database>
